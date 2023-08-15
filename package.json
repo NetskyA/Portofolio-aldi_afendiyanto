@@ -1,0 +1,23 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1",
+    "tailwindcss": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "jquery": "^3.7.0"
+  },
+  "description": ""
+}
